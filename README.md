@@ -3,7 +3,7 @@ This program resize your photo
 
 To run a program you need to type the following command in terminal:
 ```
-python resizer.py path_of_image_file width(number) heigh(number)
+python resizer.py path_of_image_file width heigh
 ```
 For example: 
 ```
